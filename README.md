@@ -1,4 +1,6 @@
-# README
+# SPA Backend
+
+[![Build Status](https://travis-ci.org/blaze182/spa_backend.svg?branch=master)](https://travis-ci.org/blaze182/spa_backend)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
